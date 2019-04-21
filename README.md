@@ -23,7 +23,7 @@ Updates coming soon.......
 
 | Original image | Shrunk image | EDSR Output |
 | -------------- | ------------ | ----------- |
-| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct0.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input0.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output0.png "shrunk")        |
+| ![alt-text](https://github.com/wikichao/Extreme-Image-Compression/blob/master/result/400.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input0.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output0.png "shrunk")        |
 
 
 ## Future Work
