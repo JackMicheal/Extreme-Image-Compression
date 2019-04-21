@@ -23,6 +23,5 @@ Updates coming soon.......
 
 
 ## Future Work
-- Add MDSR implementation
-- Train and post results on a larger model and dataset
+- Train and post results on more datasets(either specific or general)
 
