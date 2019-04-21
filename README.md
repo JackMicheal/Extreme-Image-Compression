@@ -21,9 +21,9 @@ In order to use trained weights you just need to run this command `python test.p
 Updates coming soon.......
 <br />
 
-| Original image | Shrunk image | EDSR Output |
+| Original image |   JPEG2000   |     Ours    |
 | -------------- | ------------ | ----------- |
-| ![alt-text](https://github.com/wikichao/Extreme-Image-Compression/blob/master/result/400.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input0.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output0.png "shrunk")        |
+| ![alt-text](https://github.com/wikichao/Extreme-Image-Compression/blob/master/result/400_479232_real_0.0294703003019.png "Original")          | ![alt-text](https://github.com/wikichao/Extreme-Image-Compression/blob/master/result/400_jp2.png "JPEG2000")         | ![alt-text](https://github.com/wikichao/Extreme-Image-Compression/blob/master/result/400_479232_gen_0.0294703003019.png "Ours")        |
 
 
 ## Future Work
