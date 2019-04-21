@@ -21,6 +21,14 @@ In order to use trained weights you just need to run this command `python test.p
 Updates coming soon.......
 <br />
 
+| Original image | Shrunk image | EDSR Output |
+| -------------- | ------------ | ----------- |
+| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct0.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input0.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output0.png "shrunk")        |
+| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct1.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input1.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output1.png "shrunk")        |
+| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct2.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input2.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output2.png "shrunk")        |
+| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct3.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input3.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output3.png "shrunk")        |
+| ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/correct4.png "Original")          | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/input4.png "input")         | ![alt-text](https://github.com/jmiller656/EDSR-Tensorflow/blob/master/results/output4.png "shrunk")        |
+
 
 ## Future Work
 - Train and post results on more datasets(either specific or general)
